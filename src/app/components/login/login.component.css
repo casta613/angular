@@ -1,0 +1,32 @@
+.loginCard {
+  max-width: 350px !important;
+  margin: 2em auto;
+  text-align: center;
+  max-height: 600px;
+
+}
+
+
+.body {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  align-items: center;
+
+  background-image: url(inventarios2.jpg);
+  background-size: cover;
+
+}
+
+.header {
+  text-align: center;
+}
+
+.full-width {
+  width: 85%;
+
+}
+
+.mat-raised-button {
+  background-color: #FF116F;
+}
